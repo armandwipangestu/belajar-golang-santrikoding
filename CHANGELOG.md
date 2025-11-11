@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.1.0...v1.1.1) (2025-11-11)
+
+
+### Bug Fixes
+
+* **docs:** README.md episode 3 ([494896f](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/494896f9f019bd88433ba38b823eec44873a47a3))
+
 # [1.1.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.0.0...v1.1.0) (2025-11-11)
 
 
