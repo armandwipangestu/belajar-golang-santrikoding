@@ -12,7 +12,8 @@ var usia int = 22
 
 Golang menyediakan beberapa variasi integer: `int`, `int8`, `int16`, `int32`, `int64`, `uint`, `uint8`, `uint16`, `uint32`, `uint64`.
 
-> [!NOTE] > **Catatan**: `int` biasanya cukup untuk kebutuhan umum, karena ukurannya menyesuaikan arsitektur sistem (32-bit atau 64-bit).
+> [!NOTE]
+> **Catatan**: `int` biasanya cukup untuk kebutuhan umum, karena ukurannya menyesuaikan arsitektur sistem (32-bit atau 64-bit).
 >
 > Perbedaan antara `int` dan `uint` (Unsigned Int) adalah:
 >
