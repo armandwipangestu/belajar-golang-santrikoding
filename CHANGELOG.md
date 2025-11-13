@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.6.0...v1.7.0) (2025-11-13)
+
+
+### Features
+
+* **episode-9:** Pointer ([1ee883e](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/1ee883e817925894c9244f2923c8107b581a9b75))
+
 # [1.6.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.5.0...v1.6.0) (2025-11-13)
 
 
