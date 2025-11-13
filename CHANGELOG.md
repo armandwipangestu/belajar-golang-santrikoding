@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.8.0...v1.9.0) (2025-11-13)
+
+
+### Features
+
+* **episode-11:** Struct ([3a36443](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/3a36443855ed5d239d931e2b53545612581b9e74))
+
 # [1.8.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.7.0...v1.8.0) (2025-11-13)
 
 
