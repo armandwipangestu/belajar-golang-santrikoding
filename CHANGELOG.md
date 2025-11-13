@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.3.0...v1.4.0) (2025-11-13)
+
+
+### Features
+
+* **episode-6:** Operator ([a18e6d7](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/a18e6d72546b315e31757b3ecd0b15c22128a7e7))
+
 # [1.3.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.2.0...v1.3.0) (2025-11-13)
 
 
