@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.4.0...v1.5.0) (2025-11-13)
+
+
+### Features
+
+* **episode-7:** Control Flow (if, switch, loop) ([f703b27](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/f703b2715edd56bbfb60a40cd35bf54abd31713e))
+
 # [1.4.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.3.0...v1.4.0) (2025-11-13)
 
 
