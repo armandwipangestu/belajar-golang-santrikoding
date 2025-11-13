@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.5.0...v1.6.0) (2025-11-13)
+
+
+### Features
+
+* **episode-8:** Function ([c42f1aa](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/c42f1aa7f4592c1194e3108eabbc0303b2882cc6))
+
 # [1.5.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.4.0...v1.5.0) (2025-11-13)
 
 
