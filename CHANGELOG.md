@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.1.1...v1.2.0) (2025-11-13)
+
+
+### Features
+
+* **episode-4:** Variable ([77f6108](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/77f6108b55edbb599ab012038156504e75841731))
+
 ## [1.1.1](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.1.0...v1.1.1) (2025-11-11)
 
 
