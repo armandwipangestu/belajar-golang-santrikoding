@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.7.0...v1.8.0) (2025-11-13)
+
+
+### Features
+
+* **episode-10:** Array, Slice, and Map ([a5bcb6b](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/a5bcb6b05851d129bc33a924cf7a6efdd235530c))
+
 # [1.7.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.6.0...v1.7.0) (2025-11-13)
 
 
