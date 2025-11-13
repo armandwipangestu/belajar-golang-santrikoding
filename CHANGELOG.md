@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.2.0...v1.3.0) (2025-11-13)
+
+
+### Features
+
+* **episode-5:** Konstanta ([df8cb1f](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/df8cb1f33b166d0107b6e78ddb8aa9041bdfd116))
+
 # [1.2.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.1.1...v1.2.0) (2025-11-13)
 
 
