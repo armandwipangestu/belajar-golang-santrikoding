@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.10.0...v1.11.0) (2025-11-14)
+
+
+### Features
+
+* **episode-13:** Interface ([5b090d6](https://github.com/armandwipangestu/belajar-golang-santrikoding/commit/5b090d6516ae7ba8bf05ce63ce0fa295ec8dbda3))
+
 # [1.10.0](https://github.com/armandwipangestu/belajar-golang-santrikoding/compare/v1.9.0...v1.10.0) (2025-11-14)
 
 
